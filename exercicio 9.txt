@@ -1,0 +1,78 @@
+1. Pessoa
+
+Características | Ações
+Nome | Andar
+Idade | Comer
+CPF | Dormir
+Email | Falar
+
+2. Carro
+
+Características | Ações
+Marca | Acelerar
+Modelo | Frear
+Ano | Ligar
+Cor | Buzinar
+
+3. Animal
+
+Características | Ações
+Espécie | Comer
+Idade | Dormir
+Cor | Correr
+Peso | Brincar
+
+4. Computador
+
+Características | Ações
+Processador | Ligar
+Memória RAM | Processar dados
+HD | Salvar arquivos
+Placa de vídeo | Exibir imagem
+
+5. Celular
+
+Características | Ações
+Marca | Ligar
+Modelo | Tirar foto
+Cor | Enviar mensagem
+Bateria | Tocar música
+
+6. Televisão
+
+Características | Ações
+Tamanho | Ligar
+Marca | Mudar canal
+Resolução | Aumentar volume
+Modelo | Desligar
+
+7. Livro
+
+Características | Ações
+Título | Abrir
+Autor | Ler
+Número de páginas | Folhear
+Gênero | Fechar
+
+8. Relógio
+
+Características | Ações
+Marca | Marcar hora
+Cor | Despertar
+Tipo | Cronometrar
+Material | Ajustar horário
+
+9. Casa
+
+Características | Ações
+Cor | Abrir porta
+Número | Fechar janela
+Tamanho | Acender luz
+Endereço | Trancar porta
+
+10. Bicicleta
+
+Características | Ações
+Cor | Pedalar
+Tamanho | Frear
+Marca | Virar
